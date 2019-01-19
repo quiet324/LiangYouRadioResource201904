@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181019",
-		"title": "从布道到培训：作无愧的工人（主持：卢文、周虹）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181019.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ds20181019/ds/ds181019.mp3",
-		"id": 46181019
-	},
-	{
 		"time": "20181020",
 		"title": "从布道到培训：忠心传道（主持：卢文、周虹）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181020.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/ds20190119/ds/ds190119.mp3",
 		"id": 46190119
+	},
+	{
+		"time": "20190120",
+		"title": "良院讲台：变成小孩模样（太18:1-4；讲员：姚谦）",
+		"downUrl": "http://txly2.net/ly/audio/2019/ds/ds190120.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/ds20190120/ds/ds190120.mp3",
+		"id": 46190120
 	}
 ]
