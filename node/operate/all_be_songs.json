@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181019",
-		"title": "超越的基督——歌罗西书（7）我们是谁？（讲员：周广亮）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be181019.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/be20181019/be/be181019.mp3",
-		"id": 36181019
-	},
-	{
 		"time": "20181020",
 		"title": "超越的基督——歌罗西书（8）保罗的侍奉（讲员：周广亮）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be181020.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/be20190119/be/be190119.mp3",
 		"id": 36190119
+	},
+	{
+		"time": "20190120",
+		"title": "创世记（20）雅各和儿子约瑟在生命上经历的功课（创35、37、39章）（讲员：李重恩）",
+		"downUrl": "http://txly2.net/ly/audio/2019/be/be190120.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/be20190120/be/be190120.mp3",
+		"id": 36190120
 	}
 ]
