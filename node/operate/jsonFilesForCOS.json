@@ -39178,5 +39178,8 @@
 	},
 	{
 		"fileName": "../operate/all_gsa20190120_songs.json"
+	},
+	{
+		"fileName": "../operate/all_vc20190120_songs.json"
 	}
 ]
