@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181019",
-		"title": "辨明神的声音",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it181019.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/it20181019/it/it181019.mp3",
-		"id": 41181019
-	},
-	{
 		"time": "20181022",
 		"title": "听从的决定因素（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it181022.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/it20190118/it/it190118.mp3",
 		"id": 41190118
+	},
+	{
+		"time": "20190121",
+		"title": "敬畏神（1）",
+		"downUrl": "http://txly2.net/ly/audio/2019/it/it190121.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/it20190121/it/it190121.mp3",
+		"id": 41190121
 	}
 ]
