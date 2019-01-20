@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181019",
-		"title": "生命之歌",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181019.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/gn20181019/gn/gn181019.mp3",
-		"id": 22181019
-	},
-	{
 		"time": "20181022",
 		"title": "基督信仰与现实生活（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181022.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/gn20190118/gn/gn190118.mp3",
 		"id": 22190118
+	},
+	{
+		"time": "20190121",
+		"title": "神触动我心──洪子轩的故事",
+		"downUrl": "http://txly2.net/ly/audio/2019/gn/gn190121.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/gn20190121/gn/gn190121.mp3",
+		"id": 22190121
 	}
 ]
