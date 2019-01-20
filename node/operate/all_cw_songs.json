@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181019",
-		"title": "赞美旋律：门德尔松第二号交响曲《赞美颂歌》（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181019.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/cw20181019/cw/cw181019.mp3",
-		"id": 51181019
-	},
-	{
 		"time": "20181022",
 		"title": "生命之歌：史派福《我心灵得安宁》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181022.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/cw20190118/cw/cw190118.mp3",
 		"id": 51190118
+	},
+	{
+		"time": "20190121",
+		"title": "生命之歌：昔兰的辛尼修《求主垂念歌》",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190121.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/cw20190121/cw/cw190121.mp3",
+		"id": 51190121
 	}
 ]
