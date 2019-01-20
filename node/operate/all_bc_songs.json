@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181019",
-		"title": "彩虹花园：第五章、雪里的萌芽-2；第六章、花园里的陌生人-1",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181019.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/bc20181019/bc/bc181019.mp3",
-		"id": 10181019
-	},
-	{
 		"time": "20181022",
 		"title": "信心日引：你的国降临（太6:10）；俗世圣徒：第十一章、哀伤-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181022.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/bc20190118/bc/bc190118.mp3",
 		"id": 10190118
+	},
+	{
+		"time": "20190121",
+		"title": "信心日引：躲避神（创3:10）；做基督的管家：第九章、做儿女的管家-3",
+		"downUrl": "http://txly2.net/ly/audio/2019/bc/bc190121.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/bc20190121/bc/bc190121.mp3",
+		"id": 10190121
 	}
 ]
