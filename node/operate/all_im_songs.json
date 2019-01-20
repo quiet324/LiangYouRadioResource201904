@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181019",
-		"title": "信仰大擂台：话说温柔──一般人所理解的温柔是说话轻柔，平易近人，比如大多数人都想找一个温柔的恋人。但圣经里所讲的温柔除了是一种极具吸引力的外部特质，更是一种内在的爱的力量。",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im181019.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/im20181019/im/im181019.mp3",
-		"id": 14181019
-	},
-	{
 		"time": "20181022",
 		"title": "信仰大擂台：基督徒的婚恋观之因为信仰让我们更懂得去爱──“男大当婚，女大当嫁”。很多恋爱中的男女都会看重对方家庭背景、经济实力，工作条件等，他们相恋六年，也不可避免因为现实条件而不敢考虑结婚，但在信主后，他更懂得体贴她、爱她，并且他们也很快决定在无房、无车、无钱、无工作的情况下结婚。",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im181022.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/im20190118/im/im190118.mp3",
 		"id": 14190118
+	},
+	{
+		"time": "20190121",
+		"title": "心磁场大平台：做了十几年巫师的妈妈终于不再迷信了──十五岁的弟弟突然得了一场怪病，母亲为此带弟弟到处求医问药，还去看了大仙，然后与鬼交易做巫师十五年，变得喜怒无常、大哭大闹……但后来，妈妈脱离了交鬼，变了一个人，并从原先的文盲，变成渴慕神话语，会读圣经的人……",
+		"downUrl": "http://txly2.net/ly/audio/2019/im/im190121.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/im20190121/im/im190121.mp3",
+		"id": 14190121
 	}
 ]
