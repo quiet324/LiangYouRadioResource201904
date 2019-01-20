@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181019",
-		"title": "教导儿女智财教育：第十课、自强不息（上）“子孙贤于我，何必要留钱；子孙不如我，留钱有何用？”",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up181019.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/up20181019/up/up181019.mp3",
-		"id": 20181019
-	},
-	{
 		"time": "20181022",
 		"title": "让青春风暴变成青春风采（9岁-12岁）（10）情绪失控谁之过？与父母促膝谈：承诺，承诺",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up181022.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/up20190118/up/up190118.mp3",
 		"id": 20190118
+	},
+	{
+		"time": "20190121",
+		"title": "让青春风暴变成青春风采（13岁-18岁）（6）面对拖延的习惯；与父母促膝谈：真正道德的权威",
+		"downUrl": "http://txly2.net/ly/audio/2019/up/up190121.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/up20190121/up/up190121.mp3",
+		"id": 20190121
 	}
 ]
