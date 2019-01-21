@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181021",
-		"title": "超越的基督——歌罗西书（9）信徒当继续遵主而行（讲员：周广亮）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be181021.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/be20181021/be/be181021.mp3",
-		"id": 36181021
-	},
-	{
 		"time": "20181022",
 		"title": "超越的基督——歌罗西书（10）脱离败坏人的规条（1）（讲员：周广亮）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be181022.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/be20190121/be/be190121.mp3",
 		"id": 36190121
+	},
+	{
+		"time": "20190122",
+		"title": "创世记（22）约瑟和兄弟相认、雅各晚年对人生的反省（创42-47章）（讲员：李重恩）",
+		"downUrl": "http://txly2.net/ly/audio/2019/be/be190122.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/be20190122/be/be190122.mp3",
+		"id": 36190122
 	}
 ]
