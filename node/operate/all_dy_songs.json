@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181019",
-		"title": "好得无比，每一天：世界终局（路21:28）；天路历程（10）；我爱背金句：罗10:14",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181019.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/dy20181019/dy/dy181019.mp3",
-		"id": 24181019
-	},
-	{
 		"time": "20181022",
 		"title": "好得无比，每一天：不信与未信（约7:17）；天路历程（11）；我爱背金句：罗10:15",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181022.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/dy20190118/dy/dy190118.mp3",
 		"id": 24190118
+	},
+	{
+		"time": "20190121",
+		"title": "每日天粮：醒悟过来（路15:17）；认识教会（11）（主持：程蒙恩）；我爱背金句：诗12:5",
+		"downUrl": "http://txly2.net/ly/audio/2019/dy/dy190121.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/dy20190121/dy/dy190121.mp3",
+		"id": 24190121
 	}
 ]
