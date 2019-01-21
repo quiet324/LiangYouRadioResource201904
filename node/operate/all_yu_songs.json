@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181021",
-		"title": "祝你健康：气喘",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181021.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/yu20181021/yu/yu181021.mp3",
-		"id": 7181021
-	},
-	{
 		"time": "20181022",
 		"title": "绝妙一周乐：搁浅",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181022.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/yu20190121/yu/yu190121.mp3",
 		"id": 7190121
+	},
+	{
+		"time": "20190122",
+		"title": "创译英文同乐会：应当一无挂虑（腓4:6）",
+		"downUrl": "http://txly2.net/ly/audio/2019/yu/yu190122.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/yu20190122/yu/yu190122.mp3",
+		"id": 7190122
 	}
 ]
