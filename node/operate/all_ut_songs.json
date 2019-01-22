@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181023",
-		"title": "为神建立家室：防备诱惑",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181023.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ut20181023/ut/ut181023.mp3",
-		"id": 18181023
-	},
-	{
 		"time": "20181024",
 		"title": "为神建立家室：敬畏神，怜爱人",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181024.mp3",
@@ -712,5 +701,15 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/ut20190122/ut/ut190122.mp3",
 		"id": 18190122
+	},
+	{
+		"time": "20190123",
+		"downUrl": "http://txly2.net/ly/audio/2019/ut/ut190123.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/ut20190123/ut/ut190123.mp3",
+		"id": 18190123
 	}
 ]
