@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181022",
-		"title": "快乐的接受神的旨意（弗5:15-21）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181022.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/mw20181022/mw/mw181022.mp3",
-		"id": 30181022
-	},
-	{
 		"time": "20181023",
 		"title": "“负主轭”得“真安息”（太11:20-30）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181023.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/mw20190122/mw/mw190122.mp3",
 		"id": 30190122
+	},
+	{
+		"time": "20190123",
+		"title": "神从来没有离开过（诗10篇）",
+		"downUrl": "http://txly2.net/ly/audio/2019/mw/mw190123.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/mw20190123/mw/mw190123.mp3",
+		"id": 30190123
 	}
 ]
