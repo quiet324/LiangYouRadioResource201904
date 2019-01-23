@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181024",
-		"title": "如何聆听神",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it181024.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/it20181024/it/it181024.mp3",
-		"id": 41181024
-	},
-	{
 		"time": "20181025",
 		"title": "超越界限的异象（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it181025.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/it20190123/it/it190123.mp3",
 		"id": 41190123
+	},
+	{
+		"time": "20190124",
+		"title": "受伤害的人",
+		"downUrl": "http://txly2.net/ly/audio/2019/it/it190124.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/it20190124/it/it190124.mp3",
+		"id": 41190124
 	}
 ]
