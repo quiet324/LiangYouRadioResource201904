@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181024",
-		"title": "心歌心曲：以斯拉《我只愿一生》专辑",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181024.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/cw20181024/cw/cw181024.mp3",
-		"id": 51181024
-	},
-	{
 		"time": "20181025",
 		"title": "来吧赞美：《就是这个时刻》、《让我不一样》、《献上自己为祭》、《只有这些日子》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181025.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/cw20190123/cw/cw190123.mp3",
 		"id": 51190123
+	},
+	{
+		"time": "20190124",
+		"title": "来吧赞美：迎风展翅（1）预备等候──《要等候主》、《 遇见你》、《他隐藏我魂》、《那双看不见的手》",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190124.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/cw20190124/cw/cw190124.mp3",
+		"id": 51190124
 	}
 ]
