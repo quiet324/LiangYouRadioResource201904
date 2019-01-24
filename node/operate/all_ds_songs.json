@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181024",
-		"title": "晨曦交流站：卢文牧师和林诚牧师与你探讨听众所关注的教会问题",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181024.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ds20181024/ds/ds181024.mp3",
-		"id": 46181024
-	},
-	{
 		"time": "20181025",
 		"title": "宣教心之路：堂会关顾宣教士的迷思（主持：姚谦、林诚）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181025.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/ds20190124/ds/ds190124.mp3",
 		"id": 46190124
+	},
+	{
+		"time": "20190125",
+		"title": "从布道到培训：神的拣选──以色列被弃绝的原因（罗9:30-10:21；主持：卢文、杨天成）",
+		"downUrl": "http://txly2.net/ly/audio/2019/ds/ds190125.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/ds20190125/ds/ds190125.mp3",
+		"id": 46190125
 	}
 ]
