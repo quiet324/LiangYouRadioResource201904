@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181025",
-		"title": "信仰大擂台：基督徒的婚恋观之毕业时我们结婚了──两个来自农村的年轻人，在大学时代相恋六年，研究生毕业时因为信主决定结婚，无钱、无房、无车，甚至连工作也没着落，只凭着对上帝单纯的信心和彼此相爱，他们举办了一个既简单又隆重，既不奢华又温馨浪漫的婚礼。如今他们结婚也有六年了，她为了在家教育儿子，还辞去了工作，但俩人的爱情仍然甜蜜如初。",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im181025.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/im20181025/im/im181025.mp3",
-		"id": 14181025
-	},
-	{
 		"time": "20181026",
 		"title": "信仰大擂台：基督徒都是好人吗？──不认识上帝的人会给基督徒贴上“好人”的标签；但在上帝的眼中，人人都是罪人，没有真正的好人，因此都需要耶稣基督的救恩，才能恢复上帝眼中人该有的荣耀。不过基督徒作为蒙恩的罪人，如果时刻尊主为大，遵行神的话语，活出神爱的生命，在世人的眼中，必定是好人无疑。",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im181026.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/im20190124/im/im190124.mp3",
 		"id": 14190124
+	},
+	{
+		"time": "20190125",
+		"title": "母子两地书：培养独立思维，客观视角──在跟风、追潮流、随大流的时代，这对父母以身作则，树立榜样，培养孩子独立思考与客观看待人事物的能力。",
+		"downUrl": "http://txly2.net/ly/audio/2019/im/im190125.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/im20190125/im/im190125.mp3",
+		"id": 14190125
 	}
 ]
