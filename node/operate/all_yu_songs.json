@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181024",
-		"title": "绝妙各行业：电视儿童节目（下）",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181024.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/yu20181024/yu/yu181024.mp3",
-		"id": 7181024
-	},
-	{
 		"time": "20181025",
 		"title": "绝妙热话题：洗脑歌",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181025.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/yu20190124/yu/yu190124.mp3",
 		"id": 7190124
+	},
+	{
+		"time": "20190125",
+		"title": "绝妙小偏方：照顾指甲的小妙方",
+		"downUrl": "http://txly2.net/ly/audio/2019/yu/yu190125.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/yu20190125/yu/yu190125.mp3",
+		"id": 7190125
 	}
 ]
