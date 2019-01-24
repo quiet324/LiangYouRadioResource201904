@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181024",
-		"title": "音乐咕咕钟：为主来欢唱",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181024.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/pc20181024/pc/pc181024.mp3",
-		"id": 17181024
-	},
-	{
 		"time": "20181025",
 		"title": "巨人的秘密：东晋官员吴隐之（上）",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181025.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/pc20190124/pc/pc190124.mp3",
 		"id": 17190124
+	},
+	{
+		"time": "20190125",
+		"title": "皮小弟与妙阿姨：简单就是好方法",
+		"downUrl": "http://txly2.net/ly/audio/2019/pc/pc190125.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/pc20190125/pc/pc190125.mp3",
+		"id": 17190125
 	}
 ]
